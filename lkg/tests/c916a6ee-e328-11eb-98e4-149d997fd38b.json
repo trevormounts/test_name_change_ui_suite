@@ -1,8 +1,7 @@
 {
-    "13 new test": {
+    "13 new test RENAME 3": {
         "description": "", 
         "is_deactivated": false, 
-        "original_title": "13 new test", 
         "steps": [
             {
                 "continue_on_failure": false, 
@@ -73,6 +72,6 @@
         ], 
         "tags": [], 
         "temp_id": "c916a6ee-e328-11eb-98e4-149d997fd38b", 
-        "title": "13 new test"
+        "title": "13 new test RENAME 3"
     }
 }
