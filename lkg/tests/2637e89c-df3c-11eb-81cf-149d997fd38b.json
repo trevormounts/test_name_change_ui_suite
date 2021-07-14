@@ -7,7 +7,7 @@
             {
                 "continue_on_failure": false, 
                 "description": "Select Android App", 
-                "grep": "01 Select Android App", 
+                "grep": "Android App Select", 
                 "grep_count": null, 
                 "input": "", 
                 "label_count": null, 
