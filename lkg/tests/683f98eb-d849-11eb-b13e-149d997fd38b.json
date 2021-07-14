@@ -1,8 +1,7 @@
 {
-    "10 Navigation and Verification Card": {
+    "Test 10 Renamed": {
         "description": "Tap on Navigation and Verification Card and verify their inputs and checkboxes.", 
         "is_deactivated": false, 
-        "original_title": "10 Navigation and Verification Card", 
         "steps": [
             {
                 "continue_on_failure": false, 
@@ -340,6 +339,6 @@
             "pass"
         ], 
         "temp_id": "683f98eb-d849-11eb-b13e-149d997fd38b", 
-        "title": "10 Navigation and Verification Card"
+        "title": "Test 10 Renamed"
     }
 }
